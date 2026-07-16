@@ -1,4 +1,5 @@
-# ML ZoomCamp (Cohort 2025)
+# Machine Learning Studying
 
-This repository serves as a storage of my homeworks during the study of the machine learning zoomcamp.
-Each folder contains different homeworks for different sections of the zoomcamp.
+This repository serves as a storage of my homeworks & notes during the study of the machine learning. 
+Specifically, self-paced ML Zoomcamp. (Cohort 2025)
+Each folder represents a specific topic.
