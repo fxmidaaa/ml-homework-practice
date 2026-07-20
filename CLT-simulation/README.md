@@ -18,12 +18,12 @@ The notebook compares sizes of 2, 10, 20, 50, 100, 200, 500, 1000.
 
 The mean of the sampling distribution remains close to the population mean:
 
-\[
-E[\bar X] = \mu
-\]
+$$
+E[\bar{X}] = \mu
+$$
 
-Its standard error decreases according to:
+Also, the standard error decreases according to the formula:
 
-\[
-SE(\bar X) = \frac{\sigma}{\sqrt n}
-\]
+$$
+SE(\bar{X}) = \frac{\sigma}{\sqrt{n}}
+$$
